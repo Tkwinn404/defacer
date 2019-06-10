@@ -2,5 +2,5 @@ pkg update -y
 pkg upgrade -y
 pkg install figlet -y
 pkg install ruby
-pkg install gem lolcat
+gem install lolcat
 pkg install curl 
